@@ -1,0 +1,29 @@
+{
+  "problems": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Hello world",
+        "content": "Print 'Hello world!' (without quote)."
+      }
+    ],
+    "counter": 1
+  },
+  "submissions": [],
+  "users": [
+    {
+      "username": "admin",
+      "nickname": "admin",
+      "role": "teacher",
+      "hash": "63166fcc191f09798e73a1aeaa650b7b7d0de7ddb7aad1afa46ff153eb0da35bec9ade9fefe18520c615d9cc987498b55cdeae2d9dc4a972962394aa8cfa001c",
+      "salt": "ff942e324145414cf988a96ef88c4e23"
+    },
+    {
+      "username": "test",
+      "nickname": "test",
+      "role": "student",
+      "hash": "0fca15d90888cc433c5cff320b7c61de59e7b7bf5463fcae821a25da93a3ca48a3759e0633f52cafce91ee586817c17ad1973d30f8fcc658d0c678507743dd0f",
+      "salt": "854468ee6e1709d0e76a59b96e8f5dd6"
+    }
+  ]
+}

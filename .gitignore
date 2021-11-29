@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# build output
+dist/
+dist-ssr/
+
+# database file
+db.json
+
+# log
+npm-debug.log
+request.log
+error.log
+
+# local files
+*.local
